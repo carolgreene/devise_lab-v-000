@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'high_voltage'
 
-gem 'devise' 
+
 
 
 group :development do
